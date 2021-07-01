@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/huangyujun/graduation_ws/devel/include/**",
+        "/home/huangyujun/detect_ws/devel/include/**",
+        "/home/huangyujun/catkin_usbcam/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/huangyujun/msg_ws/devel/include/**",
+        "/home/huangyujun/detect_ws/src/alignment/include/**",
+        "/home/huangyujun/msg_ws/src/camera_detect/include/**",
+        "/home/huangyujun/catkin_usbcam/src/camera_test/include/**",
+        "/home/huangyujun/graduation_ws/src/intermittent_kalman/include/**",
+        "/home/huangyujun/graduation_ws/src/kalman_location_fusion/include/**",
+        "/home/huangyujun/detect_ws/src/kalman_location_fusion_new/include/**",
+        "/home/huangyujun/detect_ws/src/pnp_detect/include/**",
+        "/home/huangyujun/catkin_usbcam/src/smf/include/**",
+        "/home/huangyujun/catkin_usbcam/src/usb_cam-develop/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
